@@ -1,0 +1,55 @@
+body {
+    background: linear-gradient(216deg, #353F7D, #464555, #AAA9BC);
+    height: 100vh;
+    width: 100vw;
+    color: whitesmoke;
+}
+#Cal-Block {
+    margin: auto;
+    margin-top: 6%;
+    background: rgba(165, 165, 165, 0.432);
+    border-radius: 20px;
+    height: 700px;
+    width: 500px;
+    box-shadow: 0px 0px 100px rgba(rgb(0, 0, 0));
+}
+#Result {
+    background-color: rgba(0, 0, 0, 0.589);
+    border-radius: 10px;
+    margin: 10px;
+    margin-bottom: 3px;
+    font-size: 200%;
+    text-align: end;
+    font-family: 'ColorTube', sans-serif;
+    color: whitesmoke;
+    border: none;
+    height: 100px;
+    width: 95%;
+    outline: none;
+}
+button.button {
+    height: 100px;
+    width: 107px;
+    margin: 7.2px;
+    margin-bottom: -6px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    font-size: 70px;
+    background-color: rgba(0, 0, 0, 0.589);
+    box-shadow: 0px 0px 100px rgba(rgb(0, 0, 0));
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+}
+button.button:hover {
+    background-color: rgba(36, 36, 36, 0.589);
+}
+#v2 {
+    float: right;
+    height: 215px;
+}
+#h2 {
+    width: 232px;
+}
